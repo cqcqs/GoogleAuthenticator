@@ -10,7 +10,7 @@ namespace common\components;
  *
  * @link http://www.phpgangsta.de/
  */
-class GoogleAuth
+class GoogleAuthenticator
 {
     protected $_codeLength = 6;
 
