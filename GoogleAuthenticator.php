@@ -1,6 +1,4 @@
 <?php
-namespace common\components;
-
 /**
  * PHP Class for handling Google Authenticator 2-factor authentication.
  *
